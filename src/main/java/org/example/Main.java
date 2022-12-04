@@ -41,7 +41,6 @@ public class Main {
         int value;
         Node left;
         Node right;
-        ArrayList list = new ArrayList();
         public Node(int value, Node left, Node right) {  // конструктор для узлов
             this.value = value;
             this.left = left;
